@@ -72,20 +72,3 @@ I'm **P Uday Raj**, an aspiring Full Stack Developer and B.Tech ECE student (202
 🔗 LinkedIn: [yourlinkedin](https://linkedin.com/in/yourlinkedin)
 
 ---
-
-## 🛠️ Built With
-
-- [React.js](https://reactjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [React Icons](https://react-icons.github.io/react-icons/)
-- [EmailJS (optional for contact form)](https://www.emailjs.com/)
-
----
-
-## ✅ How to Run Locally
-
-```bash
-git clone https://github.com/yourusername/FUTURE_FS_01.git
-cd FUTURE_FS_01
-npm install
-npm start
